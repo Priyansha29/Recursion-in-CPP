@@ -1,4 +1,6 @@
-
+//Priyansha
+//24070123079
+//ENTC-A3
 
 //Program-2
 #include<iostream>
